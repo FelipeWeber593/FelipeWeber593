@@ -8,11 +8,6 @@
   <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=FelipeWeber593&show_icons=true&theme=hacker&include_all_commits=true&count_private=true"/>
   <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeWeber593&layout=compact&langs_count=7&theme=hacker"/>
 </div>
-
-<div>
-##
-</div>
-
  
 <div>
   <a href="https://instagram.com/_felipesw" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

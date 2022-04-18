@@ -9,7 +9,7 @@
   <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeWeber593&layout=compact&langs_count=7&theme=hacker"/>
 </div>
  
-<div>
+<div align="center">
   <a href="https://instagram.com/_felipesw" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:felipewebersidnei@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">     </a>
   <a href="https://www.linkedin.com/in/felipe-weber-828706218/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 

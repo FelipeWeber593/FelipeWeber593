@@ -1,7 +1,6 @@
 ## Olá eu sou Felipe Weber 👋
 
 - Sou Felipe Sidnei Weber estudante de programação
-- ⚡ Atualmente estudando JAVA
 
 <div align="center">
   <a href="https://github.com/FelipeWeber593">
